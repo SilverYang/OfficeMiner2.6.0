@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -epool eth.f2pool.com:8008 -ewal 0x148C6c5f6A25a5269a3e536CDf66F007066ddaF8 -eworker 123 -epsw x -mode 1

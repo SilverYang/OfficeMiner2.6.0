@@ -1,0 +1,16 @@
+GPUtype:N
+pool:eth.f2pool.com:8008
+backuppool:backup-eth.f2pool.com:8008
+worker:miner001
+pswd:x
+ftime:10
+mode:1
+estale:0
+ReStartMinerEnable:False
+ReStartMinerDuration:30
+AutoStart:NO
+BootAuto:NO
+Reboot:NO
+RebootInterval:48
+Lang:2
+wallet:0x148C6c5f6A25a5269a3e536CDf66F007066ddaF8
